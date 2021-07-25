@@ -7,3 +7,5 @@ The repository has 3 files:
 - code.py
 - prep_data.py
 - CycleGANs.ipynb This file is the whole composed code including the data preparation and model definitions along with code explanation and paper review.
+
+The dataset is also made available in the ukiyoe2photo folder. The generated images/plots are stored in Results folder.
